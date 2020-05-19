@@ -13,6 +13,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
    * [GenServers + Dynamic Supervisors](https://www.thegreatcodeadventure.com/how-we-used-elixirs-genservers-dynamic-supervisors-to-build-concurrent-fault-tolerant-workflows/) - How We Used Elixir's GenServers + Dynamic Supervisors to Build Concurrent, Fault Tolerant Workflows
  * Process registry
    * [Brian Storti:process registry in elixir](https://www.brianstorti.com/process-registry-in-elixir/) - Process registry in Elixir: a practical example
+   * [Jkmrto](https://www.jkmrto.dev/posts/dynamic-supervisor-in-elixir/) - Dynamic Supervisor With Registry
+   * [unnawut](https://dev.to/unnawut/genserver-registry-dynamicsupervisor-combined-4i9p)- GenServer, Registry, DynamicSupervisor. Combined.
    
 ## Phoenix
  * Channels
