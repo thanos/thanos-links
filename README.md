@@ -11,8 +11,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
  * GenStage
    * [GenStage](http://big-elephants.com/2019-01/facebook-genstage/) - Sending Millions of HTTP Requests Using GenStage
    * [GenServers + Dynamic Supervisors](https://www.thegreatcodeadventure.com/how-we-used-elixirs-genservers-dynamic-supervisors-to-build-concurrent-fault-tolerant-workflows/) - How We Used Elixir's GenServers + Dynamic Supervisors to Build Concurrent, Fault Tolerant Workflows
-  * Process registry
+ * Process registry
    * [Brian Storti:process registry in elixir](https://www.brianstorti.com/process-registry-in-elixir/) - Process registry in Elixir: a practical example
+   
 ## Phoenix
  * Channels
    * [mobileoverlord/phoenix_client](https://github.com/mobileoverlord/phoenix_client) - Elixir Phoenix Client for Chanels
