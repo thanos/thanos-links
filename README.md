@@ -5,7 +5,9 @@ My list of of links to frameworks, libraries, software and resources.
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 
-## Elixir - [awesome-elixir](https://github.com/h4cc/awesome-elixir)
+## Elixir
+ * General 
+   * [awesome-elixir](https://github.com/h4cc/awesome-elixir)
  * Pattern Matching
    * [Joy of Elixir](https://joyofelixir.com/6-pattern-matching) - 6 pattern matching
  * GenStage
