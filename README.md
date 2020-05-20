@@ -17,6 +17,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
    * [Brian Storti:process registry in elixir](https://www.brianstorti.com/process-registry-in-elixir/) - Process registry in Elixir: a practical example
    * [Jkmrto](https://www.jkmrto.dev/posts/dynamic-supervisor-in-elixir/) - Dynamic Supervisor With Registry
    * [unnawut](https://dev.to/unnawut/genserver-registry-dynamicsupervisor-combined-4i9p) - GenServer, Registry, DynamicSupervisor. Combined.
+* Broadway
+  * [off_broadway_redis](https://github.com/amokan/off_broadway_redis) - A Broadway producer for Redis lists
+  * [dashbitco/broadway_sqs](https://github.com/dashbitco/broadway_sqs) - A Broadway producer for Amazon SQS
    
 ## Phoenix
  * Channels
@@ -26,13 +29,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
    * [Azolo/websockex](https://github.com/Azolo/websockex) - An Elixir Websocket Client
  * ECTO
    * [Wendy Smoak](http://wsmoak.net/2015/07/27/adding-fields-to-an-ecto-model-in-phoenix.html) - Adding Fields to an Ecto Model in Phoenix
- ## OLAP
-
    
  ## DATA
   * [viethip](https://viethip.com/2013/11/22/rocksdb-architecture-an-open-source-key-value-db-builds-on-leveldb/) - Rocksdb Architecture – An open source Key-Value DB builds on LevelDB
   * OLAP
-    *    * [kylin](http://kylin.apache.org/) -  distributed Analytical Data Warehouse for Big Data
+    * [kylin](http://kylin.apache.org/) -  distributed Analytical Data Warehouse for Big Data
 
 
 
