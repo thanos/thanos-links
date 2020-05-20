@@ -34,8 +34,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   * [viethip](https://viethip.com/2013/11/22/rocksdb-architecture-an-open-source-key-value-db-builds-on-leveldb/) - Rocksdb Architecture – An open source Key-Value DB builds on LevelDB
   * OLAP
     * [kylin](http://kylin.apache.org/) -  distributed Analytical Data Warehouse for Big Data
+    * [Akutan](https://tech.ebayinc.com/engineering/akutan-a-distributed-knowledge-graph-store/) - Akutan: A Distributed Knowledge Graph Store
 
-
+## C#
+* [using statement](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement) - using statement (C# Reference)
+* 
 
 
 
