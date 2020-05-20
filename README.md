@@ -30,6 +30,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
  * ECTO
    * [Wendy Smoak](http://wsmoak.net/2015/07/27/adding-fields-to-an-ecto-model-in-phoenix.html) - Adding Fields to an Ecto Model in Phoenix
     * [ecto](https://github.com/hauleth/ecto_olap) 
+  * Admin
+    * [Kaffy] - [https://github.com/aesmail/kaffy] Powerfully simple admin package for phoenix applications
    
  ## DATA
   * [viethip](https://viethip.com/2013/11/22/rocksdb-architecture-an-open-source-key-value-db-builds-on-leveldb/) - Rocksdb Architecture – An open source Key-Value DB builds on LevelDB
