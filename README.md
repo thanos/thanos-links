@@ -44,10 +44,14 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     
 ## Databases 
   * [yugabytedb](https://blog.yugabyte.com/achieving-10x-better-distributed-sql-performance-in-yugabytedb-2-1/) - Achieving 10x Better Distributed SQL Performance in YugabyteDB 2.1
+  * Axibase - a interesting timeseries db
+    * [axibase](https://axibase.com/docs/atsd/architecture.html) - architecture
+    * [axibase](https://apps.axibase.com/chartlab/2ef08f32) -  Axibase Charts is a graphics library for visualizing time series.
+    * [axibase](https://apps.axibase.com/chartlab/2ef08f32) -  Axibase Chart dashboards
 ## C#
 * [using statement](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement) - using statement (C# Reference)
 * 
-
+Axibase Charts
 ## C
  * [threads](https://medium.com/hackernoon/learn-c-multi-threading-in-5-minutes-8b881c92941f) - learn C multi threadinging in minutes
 
