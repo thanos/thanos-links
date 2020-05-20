@@ -41,6 +41,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [KNOWLEDGE GRAPHS](https://tech.ebayinc.com/research/relation-embedding-with-dihedral-group-in-knowledge-graph/)- Relation Embedding with Dihedral Group in Knowledge Graph
     * [hoplys](https://github.com/amirouche/hoply/blob/master/docs/source/index.rst#welcome-to-hoplys-documentation) - Hoply is generic n-tuple store. It is a database storing tuples with n-items in a set. Each tuple is unique. With Hoply you can use a triplestore or quadstore similar Blazegraph, Jena, Virtuoso et al. in the comfort of Python programming language.
     * [ecto](https://github.com/hauleth/ecto_olap) 
+    
+## Databases 
+  * [yugabytedb](https://blog.yugabyte.com/achieving-10x-better-distributed-sql-performance-in-yugabytedb-2-1/) - Achieving 10x Better Distributed SQL Performance in YugabyteDB 2.1
 ## C#
 * [using statement](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement) - using statement (C# Reference)
 * 
@@ -49,7 +52,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
  * [threads](https://medium.com/hackernoon/learn-c-multi-threading-in-5-minutes-8b881c92941f) - learn C multi threadinging in minutes
 
 
-
+## Python
+* [lettuce](http://lettuce.it/index.html#) - Lettuce is a Behavior-Driven Development tool written by Gabriel Falcão G. de Moura
 
 
 
