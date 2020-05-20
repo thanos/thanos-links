@@ -35,7 +35,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   * OLAP
     * [kylin](http://kylin.apache.org/) -  distributed Analytical Data Warehouse for Big Data
     * [Akutan](https://tech.ebayinc.com/engineering/akutan-a-distributed-knowledge-graph-store/) - Akutan: A Distributed Knowledge Graph Store
-
+    * [KNOWLEDGE GRAPHS](https://tech.ebayinc.com/research/relation-embedding-with-dihedral-group-in-knowledge-graph/)- Relation Embedding with Dihedral Group in Knowledge Graph
+    * [hoplys](https://github.com/amirouche/hoply/blob/master/docs/source/index.rst#welcome-to-hoplys-documentation) - Hoply is generic n-tuple store. It is a database storing tuples with n-items in a set. Each tuple is unique. With Hoply you can use a triplestore or quadstore similar Blazegraph, Jena, Virtuoso et al. in the comfort of Python programming language.
 ## C#
 * [using statement](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement) - using statement (C# Reference)
 * 
