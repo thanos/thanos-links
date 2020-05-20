@@ -29,6 +29,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
    * [Azolo/websockex](https://github.com/Azolo/websockex) - An Elixir Websocket Client
  * ECTO
    * [Wendy Smoak](http://wsmoak.net/2015/07/27/adding-fields-to-an-ecto-model-in-phoenix.html) - Adding Fields to an Ecto Model in Phoenix
+    * [ecto](https://github.com/hauleth/ecto_olap) 
    
  ## DATA
   * [viethip](https://viethip.com/2013/11/22/rocksdb-architecture-an-open-source-key-value-db-builds-on-leveldb/) - Rocksdb Architecture – An open source Key-Value DB builds on LevelDB
@@ -37,6 +38,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [Akutan](https://tech.ebayinc.com/engineering/akutan-a-distributed-knowledge-graph-store/) - Akutan: A Distributed Knowledge Graph Store
     * [KNOWLEDGE GRAPHS](https://tech.ebayinc.com/research/relation-embedding-with-dihedral-group-in-knowledge-graph/)- Relation Embedding with Dihedral Group in Knowledge Graph
     * [hoplys](https://github.com/amirouche/hoply/blob/master/docs/source/index.rst#welcome-to-hoplys-documentation) - Hoply is generic n-tuple store. It is a database storing tuples with n-items in a set. Each tuple is unique. With Hoply you can use a triplestore or quadstore similar Blazegraph, Jena, Virtuoso et al. in the comfort of Python programming language.
+    * [ecto](https://github.com/hauleth/ecto_olap) 
 ## C#
 * [using statement](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement) - using statement (C# Reference)
 * 
