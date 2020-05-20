@@ -45,6 +45,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [using statement](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement) - using statement (C# Reference)
 * 
 
+## C
+ * [threads](https://medium.com/hackernoon/learn-c-multi-threading-in-5-minutes-8b881c92941f) - learn C multi threadinging in minutes
+
 
 
 
